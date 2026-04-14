@@ -1,0 +1,6 @@
+{
+  "name": "Global Explorer",
+  "description": "A comprehensive guide to countries around the world, featuring real-time data from the REST Countries API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
